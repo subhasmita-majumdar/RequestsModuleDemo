@@ -1,0 +1,35 @@
+{
+"students":
+  [
+    {
+      "id": 1,
+      "name": "John",
+      "location": "India",
+      "phone": "1234567890",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Lina",
+      "location": "Canada",
+      "phone": "0987654321",
+      "courses": [
+        "Python",
+        "Robot Framework"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Rose",
+      "location": "US",
+      "phone": "45678904321",
+      "courses": [
+        "Playwright",
+        "Typescript"
+      ]
+    }
+  ]
+}
