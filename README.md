@@ -29,7 +29,7 @@
 
 ✨ **Features**
 
-  1. Full Pytest setup and environment configuration
+  1. Full Requests setup and environment configuration
   
   2. Writing and structuring test cases
   
@@ -54,21 +54,21 @@
 
 3. Installation
   # Clone the repository
-  git clone https://github.com/subhasmita-majumdar/Pytest-Framework.git
+  git clone https://github.com/subhasmita-majumdar/RequestsModuleDemo.git
   
   # Navigate to project folder
-  cd Pytest-tutorial  
+  cd Requests-tutorial  
   
   # Install dependencies
   pip install -r requirements.txt  
 
 🗂 **Tutorial Outline**
 
-  1. Introduction to Pytest
+  1. Introduction to Requests
   
   2. Installing and setting up the environment
   
-  3. Writing your first test
+  3. Writing your first request
   
   4. Using assertions effectively
   

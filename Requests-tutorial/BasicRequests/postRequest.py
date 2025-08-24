@@ -4,9 +4,9 @@ import requests
 def createNewUser(url,bearer_token):
     headers={"Authorization":bearer_token}
     data={
-            "name": "Anjali Mehta",
-            "gender": "female",
-            "email": "anjali.mehta@lekhak.com",
+            "name": "Champaklal Gadha",
+            "gender": "male",
+            "email": "champaklal.gadha@vyapari.com",
             "status": "active"
         }
     response=requests.post(url=url,headers=headers,json=data)

@@ -1,6 +1,4 @@
 import json
-from xml.etree.ElementTree import indent
-
 import requests
 
 def getAllStudents(url):

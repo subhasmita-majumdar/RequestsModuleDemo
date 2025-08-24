@@ -1,8 +1,7 @@
 {
-"students":
-  [
+  "students": [
     {
-      "id": 1,
+      "id": "1",
       "name": "John",
       "location": "India",
       "phone": "1234567890",
@@ -12,7 +11,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Lina",
       "location": "Canada",
       "phone": "0987654321",
@@ -22,13 +21,23 @@
       ]
     },
     {
-      "id": 3,
-      "name": "Rose",
-      "location": "US",
-      "phone": "45678904321",
+      "id": "d5c9",
+      "name": "Nuthead",
+      "location": "Blah",
+      "phone": "+441+5432167890",
       "courses": [
-        "Playwright",
-        "Typescript"
+        "nutjob",
+        "idiot"
+      ]
+    },
+    {
+      "id": "036e",
+      "name": "Nuthead",
+      "location": "Blah",
+      "phone": "+441+5432167890",
+      "courses": [
+        "nutjob",
+        "idiot"
       ]
     }
   ]
