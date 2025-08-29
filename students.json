@@ -19,26 +19,6 @@
         "Python",
         "Robot Framework"
       ]
-    },
-    {
-      "id": "d5c9",
-      "name": "Nuthead",
-      "location": "Blah",
-      "phone": "+441+5432167890",
-      "courses": [
-        "nutjob",
-        "idiot"
-      ]
-    },
-    {
-      "id": "036e",
-      "name": "Nuthead",
-      "location": "Blah",
-      "phone": "+441+5432167890",
-      "courses": [
-        "nutjob",
-        "idiot"
-      ]
     }
   ]
 }

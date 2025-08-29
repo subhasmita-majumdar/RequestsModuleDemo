@@ -1,1 +1,8 @@
 requests
+pytest
+pytest-ordering
+pytest-dependency
+faker
+jsonpath-ng
+google-auth
+jsonschema
